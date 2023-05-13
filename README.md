@@ -9,3 +9,25 @@
 BruteForce Attack
 - Auto Attack
 - Manual Attack
+
+python or python3 supporting
+
+# Tested on:
+- Termux
+- Linux
+
+# Available for:
+- Termux
+- Linux
+
+# About Next Update
+- o.m.k will available for all operating system in next update.
+
+# Installation:
+- apt update
+- apt upgrade
+- apt install git -y
+- git clone https://github.com/omarproxt/o.m.k
+- cd o.m.k
+- chmod +x *
+- bash omkk.sh
