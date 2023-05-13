@@ -1,4 +1,4 @@
-#created by MrHacker-X; give me credit if you're using any part of this script.
+#created by Team prox-t; give me credit if you're using any part of this script.
 #bin/bash
 
 clear
@@ -46,4 +46,4 @@ rm /data/data/com.termux/files/usr/etc/tor/torrc
 mv torrc /data/data/com.termux/files/usr/etc/tor
 echo -e $grn
 echo $grn'Setup is completed \nBruteX is launching...'
-python brutex.py
+python omk.py
