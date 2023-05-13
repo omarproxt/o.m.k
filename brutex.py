@@ -1,5 +1,5 @@
 # /bin/python !
-# https://github.com/MrHacker-X/
+# https://github.com/omarproxt/
 
 from __future__ import absolute_import
 from __future__ import print_function
@@ -34,11 +34,8 @@ main_menu = ('''
 
 \033[1;91mbrutex\033[1;97m>>\033[1;92m ''')
 
-banr = ("""\033[1;92m   ___           __      _  __
-  / _ )______ __/ /____ | |/_/
- / _  / __/ // / __/ -_)>  <  
-/____/_/  \_,_/\__/\__//_/|_|  
-\033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m""")
+banr = ("""\033[1;92m  
+\033[1;91m<═══\033[1;41m\033[1;97m Created by Team prox-t \033[;0m\033[1;91m═══>\033[1;92m""")
 
 about = ("""\033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mBruteforce Introduction:
 
@@ -165,7 +162,7 @@ def hackbook():
 
 
 # main script start
-os.system("xdg-open https://youtube.com/@Technolex")
+os.system("xdg-open https://www.youtube.com/@omarproxt/featured")
 time.sleep(5)
 
 while True:
@@ -288,7 +285,7 @@ while True:
 		os.system("clear")
 		print(banr)
 		print()
-		print("\033[1;91m[\033[;1;97m~\033[1;91m] \033[1;92mThanks for using my tool 'BruteX'. You can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
+		print("\033[1;91m[\033[;1;97m~\033[1;91m] \033[1;92mThanks for using my tool 'prox-t'. You can follow me on various social media site. Link and options are given down below, So select here options where you want to follow me ")
 		print()
 		print()
 		while True:
@@ -297,31 +294,31 @@ while True:
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Instagram profile in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://instagram.com/0hacker_x0")
+				os.system("xdg-open https://www.instagram.com/2_7or/")
             
 			elif fol == '2' or fol == '02':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Facebook page in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://facebook.com/hackerxmr")
+				os.system("xdg-open https://www.facebook.com/")
 
 			elif fol == '3' or fol == '03':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://github.com/MrHacker-X")
+				os.system("xdg-open https://github.com/omarproxt")
 
 			elif fol == '4' or fol == '04':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://youtube.com/@Technolex")
+				os.system("xdg-open https://www.youtube.com/@omarproxt/featured")
             
 			elif fol == '5' or fol == '05':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://t.me/hackwithalex")
+				os.system("xdg-open https://t.me/proxt25")
 
 			elif fol == '9' or fol == '99':
 				print()
