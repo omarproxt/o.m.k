@@ -53,7 +53,7 @@ Brute-force attacks are an application of brute-force search, the general proble
 
 \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Author:
 
-\033[1;97m➤ \033[1;92mTool BruteX is created by MrHacker-X
+\033[1;97m➤ \033[1;92mTool o.m.k is created by Team prox-t
 \033[1;92m""")
 
 soc = """\033[1;91m[\033[;1;97m01\033[1;91m] \033[1;92mSelect any options
